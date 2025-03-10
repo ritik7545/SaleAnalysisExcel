@@ -14,8 +14,8 @@ This project analyzes **sales data** to extract valuable insights and visualize 
 - `ORDER ID`, `CUSTOMER ID`, `GENDER`, `AGE`, `AGE GROUP`, `PURCHASE DATE`, `MONTH`, `STATUS`, `SOURCE`, `SKU`, `CATEGORY`, `SIZE`, `QUANTITY`, `CURRENCY`, `AMOUNT`, `SHIPPING CITY`, `SHIPPING STATE`, `SHIPPING POSTAL CODE`, `SHIPPING COUNTRY`, `B2B`
 
 ## 📊 Dashboard Preview:
-![Sales Dashboard](![image](https://github.com/user-attachments/assets/a625a604-1a2e-4528-a5f5-a874992ee4db)
- )
+![Sales Dashboard] ![image](https://github.com/user-attachments/assets/bc08d0e3-b1ce-4f57-98ae-d5c2caf6886c)
+
 
 
 🔗 **Check the full project here:** [https://github.com/ritik7545/SaleAnalysisExcel]  
